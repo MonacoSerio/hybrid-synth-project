@@ -32,7 +32,7 @@ Phase 1 completed:
 - [x] Phase 1 - Basic sound generation
 - [x] Phase 2 - Frequency control
 - [x] Phase 3 - Modulation experiments
-- [ ] Phase 4 - Wave shaping
+- [x] Phase 4 - Wave shaping
 - [ ] Phase 5 - Audio output stage
 
 ## Gallery
