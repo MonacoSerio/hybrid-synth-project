@@ -37,6 +37,13 @@ Phase 1 completed:
 
 ## Gallery
 
+### Phase 4 - Audio Amplification
+
+Added an LM386 audio amplifier and an 8Ω speaker.
+
+The oscillator output can now drive a real loudspeaker instead of a passive buzzer, providing significantly higher sound levels and demonstrating a complete audio signal chain.
+
+NE555 → LM386 → Speaker
 ![phase4](phase4.jpg)
 
 Project photos and schematics will be added as development progresses.
